@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7285cbdb-1ba4-40cb-a9aa-a28fa5e8d998" name="Changes" comment="Adding local files into master">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    <list default="true" id="7285cbdb-1ba4-40cb-a9aa-a28fa5e8d998" name="Changes" comment="changing in dockerfile">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706167271084</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changing in dockerfile">
+      <option name="closed" value="true" />
+      <created>1706170322572</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706170322572</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +167,8 @@
     <MESSAGE value="Adding docker file" />
     <MESSAGE value="Release branch update, depenci" />
     <MESSAGE value="Adding local files into master" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding local files into master" />
+    <MESSAGE value="changing in dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing in dockerfile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
